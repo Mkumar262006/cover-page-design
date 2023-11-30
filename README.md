@@ -138,4 +138,4 @@ Publish the URL.
 ![Output](pic1.png)
 
 ## Result:
-The program for desining book cover page using HTML and CSS is excuted sucessfull.
+The program for desining book cover page using HTML and CSS is excuted sucessfully.
