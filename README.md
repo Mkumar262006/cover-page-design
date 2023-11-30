@@ -15,7 +15,6 @@ Publish the URL.
 
 ## Code:
 
- ### index.html code:
  ```html
  <!DOCTYPE html>
 <html lang="en">
